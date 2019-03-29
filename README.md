@@ -5,7 +5,7 @@ AI practicals of GTU Semester 8.
 
 first clone the repository
   
-  ``` git@github.com:inosjarv/GTU-AI-Practicals.git ```
+  ``` git clone git@github.com:inosjarv/GTU-AI-Practicals.git ```
 
 Then go to directory of programs
   ``` cd GTU-AI-Practicals ```
